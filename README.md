@@ -8,7 +8,7 @@ The iso file can be found here:
 To install, Mount the .iso by right clicking on it and clicking Mount. If you do not see mount then right click and select "Open with.." Then choose "WINDOWS EXPLORER".
 
 # #2: Install patch (use if you are on windows 7 and above)
-Download the patch (bullypc_efigs_PatchTo_v1200.exe) of this repo, MAKE SURE TO NOT SKIP!
+Download the patch [v1.2 Patch Installer](https://github.com/ineedroob/BULLY-Scholarship-Edition-Easy-Install/raw/refs/heads/main/BullyPC_EFIGS_PatchTo_v1200.exe) of this repo, MAKE SURE TO NOT SKIP!
 The patch has to be installed after setup.exe, No exceptions.
 To install the patch, You need to add it into the bully game folder (not the iso)
 Bully should be found at:
