@@ -22,6 +22,6 @@ Run the patch installer after placing it in the root of the directory for Bully.
 **All files sourced are from: [archive.org/details/bullypc_202505](https://archive.org/details/bullypc_202505)**.
 ### Credits:
 - 1. Rockstar Games, Developer of Bully
-- 2. OP of archive post.
+- 2. GAMES LIBRARY, OP of archive
 
 
