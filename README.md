@@ -1,5 +1,5 @@
-# BULLY-Scholarship-Edition-Easy-Install
-This is for the people who are horribly confused by shady links.
+# BULLY-Scholarship-Edition
+This install tutorial teaches you how to install a cracked version of Bully: Scholarship Edition effectively.
 
 # #1: Install .iso file
 The .iso contains the game, Most important step.
