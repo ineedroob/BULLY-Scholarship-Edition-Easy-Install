@@ -16,7 +16,7 @@ Bully should be found at:
 C:\Program Files (x86)\Rockstar Games\Bully Scholarship Edition
 ```
 Run the patch installer after placing it in the root of the directory for Bully.
-![showcase](https://imgur.com/a/nHq6QL2 "showcase image")
+![showcase](https://imgur.com/pn2IUKi "showcase image")
 
 # Now you are done with the installation of Bully: Scholarship Edition!
 **All files sourced are from: [archive.org/details/bullypc_202505](https://archive.org/details/bullypc_202505)**.
