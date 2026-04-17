@@ -3,6 +3,8 @@ This is for the people who are horribly confused by shady links.
 
 # #1: Install .iso file
 The .iso contains the game, Most important step.
+The iso file can be found here:
+[BullyPC.iso](https://archive.org/download/bullypc_202505/BULLYPC.iso)
 To install, Mount the .iso by right clicking on it and clicking Mount. If you do not see mount then right click and select "Open with.." Then choose "WINDOWS EXPLORER".
 
 # #2: Install patch (use if you are on windows 7 and above)
