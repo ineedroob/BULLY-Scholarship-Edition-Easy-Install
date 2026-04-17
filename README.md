@@ -20,6 +20,8 @@ Run the patch installer after placing it in the root of the directory for Bully.
 
 # Now you are done with the installation of Bully: Scholarship Edition!
 **All files sourced are from: [archive.org/details/bullypc_202505](https://archive.org/details/bullypc_202505)**.
-All credit goes to OP of the archive post, This is just a tutorial.
+### Credits:
+- 1. Rockstar Games, Developer of Bully
+- 2. OP of archive post.
 
 
