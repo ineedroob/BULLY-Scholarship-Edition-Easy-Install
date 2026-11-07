@@ -24,4 +24,8 @@ Run the patch installer after placing it in the root of the directory for Bully.
 - Rockstar Games, Developer of Bully
 - GAMES LIBRARY, OP of archive
 
+### disclaimer:
+this is not piracy, theft, or any kind of cybercrime.
+this was only for educational purposes and to help others revive a game that you cant buy legally.
+
 
